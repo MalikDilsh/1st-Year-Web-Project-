@@ -1,0 +1,63 @@
+<HTML>
+<title> PrameshWeb </title>
+<body>
+<body background="1.jpg">
+<a href="http://www.sliit.lk/"> Home Page </a> 
+
+<a href="http://www.sliit.lk/"> About Us </a>  
+<a href="http://www.sliit.lk/"> Our Articles </a>  
+<a href="http://www.sliit.lk/"> Contact Us </a>  
+<a href="http://www.sliit.lk/"> Sitemap </a>
+
+<p> <h1> Categories </h1> 
+<ul>
+	<LI> <a href="http://www.sliit.lk/"> <u> Programs </u> </a> </LI>
+	<LI> <a href="http://www.sliit.lk/"> <u> Student Info </u> </a> </LI>	
+	<LI> <a href="http://www.sliit.lk/"> <u> Teachers </u> </a> </LI>
+	<LI> <a href="http://www.sliit.lk/"> <u> Descriptions </u> </a> </LI>
+	<LI> <a href="http://www.sliit.lk/"> <u> Administration </u> </a> </LI>
+	<LI> <a href="http://www.sliit.lk/"> <u> Basic Information </u> </a> </LI>
+	<LI> <a href="http://www.sliit.lk/"> <u> Vacancies </u> </a> </LI>
+	<LI> <a href="http://www.sliit.lk/"> <u> Calender </u> </a> </LI>
+</ul>	
+
+<h1> Fresh News </h1> </p>
+<ul>
+	<LI>
+	<b> August 01, 2016 </b> <br/>
+	<a href="http://www.sliit.lk/"> <u> Mid Semester Exam </u> </a> <br/>
+	Mid semester exam will be commenced from 11<sup>th</sup> August.</LI>
+
+	<LI>
+	<b> July 12, 2016 </b> <br/>
+	<a href="http://www.sliit.lk/"> <u> ITA Course Assesments </u> </a> <br/>
+	A project will be assigned as a group work of maximum 6 members for a group.</LI>
+
+	<LI>
+	<b> June 23, 2016 </b> <br/>
+	<a href="http://www.sliit.lk/"> <u> Start of New Semester </u> </a> <br/>
+	Lectures, tutorial & practical sessions will be starting from the first week itself.</LI>
+</ul>
+
+<h1> Professional Online Education </h1> </p>
+<h1> Recent Articles </h1> </p>
+
+<ul>
+	<LI>
+	<img src="download (1).png" width="42" height="42">
+	<b> About Site </b> <br/>
+	This site will be maintained to convey messages to students regarding ITA course <br/>which is provided to 1<sup>st</sup>Year 2<sup>nd</sup> semester IT/IS/CSN students.</LI>
+
+	<LI>
+	<img src="download.jpg" width="42" height="42">
+	<b> Connecting People </b> <br/>
+	This is used to connect students with each other as well as lecturers & Students. <br/>This is allow students to actively communicate with themselves & share knowledge.</LI>
+
+	<LI>
+	<img src="download.png" width="42" height="42">
+	<b> Student's Time </b> <br/>
+	Students will be given 2 hours of lectures, 2 hour practical sessions & 1 hour tutorial <br/>per week for the ITA course.</LI>
+</ul>
+
+</body>
+</HTML>
